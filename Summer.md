@@ -1,5 +1,3 @@
-[TOC]
-
 ### O que vamos aprender?
 
 Você vai aprender sobre o modelo de layout **CSS Flexible Box Layout** ou apenas **Flexbox**  como é conhecido, este modelo permite que os elementos **filhos** dentro de um **elemento pai/mãe** sejam organizados e distribuídos em diversas direções apenas aplicando algumas propriedades ao seu **CSS**. A principal função do **Flexbox** é permitir o controle das colunas e linhas de elementos, dando a eles uma melhor organização visual, tanto em telas de dispositivos móveis quanto computadores portáteis e desktop.
@@ -84,7 +82,7 @@ e seus/suas respectivos(as) filhos/filhas com a classe `flex-item`
 
 - **row**
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/flex-direction1.png)
+<img src='https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/flex-direction1.png?alt=media&token=63e56640-623f-4474-9c36-d6d991af8b21' />
 
 ------
 
