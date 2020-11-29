@@ -88,20 +88,17 @@ e seus/suas respectivos(as) filhos/filhas com a classe `flex-item`
 
 - **row-reverse**
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/row-reverse.png)
-
+<img src='https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/row-reverse.png?alt=media&token=03d0439a-5e95-4796-b1d1-739597331f6e' />
 ------
 
 - **comumn**
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/column.png)
-
+<img src='https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/column.png?alt=media&token=13c2fbc7-4261-4e73-ab1f-79ba77c99092' />
 ------
 
 - **column-reverse**
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/column-reverse.png)
-
+<img src='https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/column-reverse.png?alt=media&token=dba64bff-fe25-4524-940d-5db9ae48b7fd' />
 ------
 
 ### Flex wrap
@@ -112,14 +109,12 @@ Quando aplicamos `display:flex` e `flex-direction:row` , por padrão temos os el
 
 **Note que o ultimo elemento vazou para fora do container.**
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/erro1.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/erro1.png?alt=media&token=b53e4537-e9ee-4dbe-94cf-f4ed00da3627">
 ------
 
 **Agora aplicando `flex-wrap:wrap`:** Neste caso, não importa a quantidade de elementos dentro do container, caso seja necessário serão criadas novas linhas sempre que for atingida a limitação de largura.
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/wrap.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/wrap.png?alt=media&token=635ab8a7-f273-4f57-a6d6-41045e1d6e77">
 ------
 
 ### Flex flow
@@ -128,8 +123,7 @@ Quando aplicamos `display:flex` e `flex-direction:row` , por padrão temos os el
 
 Para deixar nosso container como `flex-direction: column` e dar  uma quebra de linha com `flex-wrap:wrap`, era necessário duas propriedades, então vamos ver como fazer o mesmo serviço de forma abreviada aplicando `flex-flow: column wrap`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/flexflow.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/flexflow.png?alt=media&token=38d8f5b3-bc32-450b-98a4-b1ea8bbbab65">
 ------
 
 - Teste as possibilidades [aqui](https://flexbox.help/).
@@ -149,26 +143,22 @@ Para deixar nosso container como `flex-direction: column` e dar  uma quebra de l
 
 `align-items: center`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/aligncenter.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/aligncenter.png?alt=media&token=36b8b393-7bba-471c-9993-3586b93d199c">
 ------
 
 `align-items: flex-start`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/alignstart.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/alignstart.png?alt=media&token=5091896d-8439-4cb6-bed5-6d669a18046d">
 ------
 
 `align-items: flex-end`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/alignend.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/alignend.png?alt=media&token=34630c4a-5d2d-4fe0-96ae-e87d72d797d5">
 ------
 
 `align-items: stretch`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/alignstretch.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/alignstretch.png?alt=media&token=a0c1cf82-4c76-47b3-b879-63d76ce315a2">
 ------
 
 ### Justify content
@@ -181,38 +171,32 @@ Para deixar nosso container como `flex-direction: column` e dar  uma quebra de l
 
 `justify-content: center`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/justifycenter.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/justifycenter.png?alt=media&token=32277571-7000-4628-a516-db13ffbf6065">
 ------
 
 `justify-content: flex-start`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/justifystart.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/justifystart.png?alt=media&token=e30d74ee-4af2-4b73-9e7c-56050470ba6b">
 ------
 
 `justify-content: flex-end`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/justifyend.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/justifyend.png?alt=media&token=c8da248c-bf61-4c6c-b77f-0b38b1a77031">
 ------
 
 `justify-content: space-around`  Insere espaços pequenos nas laterais e mais entre os elementos.
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/justifyspacearound.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/justifyspacearound.png?alt=media&token=0ccdad7d-81a4-438d-b335-76b31b7802de">
 ------
 
 `justify-content: space-between`  Insere espaços igualmente entre os elementos, porém não nas laterais.
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/justifybetween.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/justifybetween.png?alt=media&token=50160f48-78c4-4625-8bab-613311d8cdbe">
 ------
 
 `justify-content: space-evenly` Insere espaços igualmente tanto entre os elementos quanto nas laterais.
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/justifyevenly.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/justifyevenly.png?alt=media&token=c6108548-c881-4654-9920-7b24441e8e2c">
 ------
 
 ### Centralizando tudo
@@ -225,8 +209,7 @@ Utilizando juntamente `align-items` e `justify-content` para centralizar os elem
 
 `justify-content: center`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/centercenter.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/centercenter.png?alt=media&token=e807fe0e-e8ed-4beb-9ddf-ba0ce61538c8">
 ------
 
 É importante ressaltar que o `display-flex` apenas flexibiliza os elemento filhos(as), caso dentro de um elemento filho contenha outros elementos, estes não herdarão a propriedade flex e será necessário declarar `display: flex` pois este passará a ser o pai/mãe do elementos dentro dele.
@@ -261,14 +244,12 @@ Utilizando juntamente `align-items` e `justify-content` para centralizar os elem
 
 `Antes`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/exercicioantes.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/exercicioantes.png?alt=media&token=b2b30ee5-d121-4f70-9639-5ee2724ecfb2">
 ------
 
 `Depois`
 
-![](/home/felipe/Área de Trabalho/Summer Jobs/images/exerciciodepois.png)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/imagenator-ccdab.appspot.com/o/exerciciodepois.png?alt=media&token=4d92ff04-6d1c-4c9e-b477-c964d7581135">
 ------
 
 
@@ -282,6 +263,3 @@ https://rupl.github.io/unfold/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ------
-
-[TOC]
-
